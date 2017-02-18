@@ -1,2 +1,7 @@
 # -microservices-best-articles
-#microservices-best-articles
+
+https://developers.redhat.com/blog/2016/12/09/spring-cloud-for-microservices-compared-to-kubernetes/
+https://www.youtube.com/watch?v=jiW9goJA9q8
+
+Container-Logging
+https://nathanleclaire.com/blog/2015/04/27/automating-docker-logging-elasticsearch-logstash-kibana-and-logspout/
